@@ -3,3 +3,6 @@
 
 # Claude Code local agent state / memory
 .claude/
+
+# Local writeup drafts (published on Medium, not tracked here)
+writeups/
