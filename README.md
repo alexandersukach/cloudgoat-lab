@@ -24,6 +24,8 @@ Short, copy-paste command references for each scenario — no prose. Use these o
 you've read the walkthroughs (or the Medium articles) and just need the commands.
 - **[iam_enum_basics.md](cheatsheets/iam_enum_basics.md)** — IAM enumeration with the
   AWS CLI (managed/inline policies, groups, roles, policy versions).
+- **[data_secrets.md](cheatsheets/data_secrets.md)** — credential-chain privesc:
+  EC2 user data → IMDS role creds → Lambda env vars → Secrets Manager.
 
 ## ⚠️ Safety & cost
 
